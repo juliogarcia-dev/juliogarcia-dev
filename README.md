@@ -1,8 +1,15 @@
 ## Hello there! 👋
 
-🚀 I'm passionate about technology looking for the next challenge!
-📫 Connect with me on <a href="https://www.linkedin.com/in/julio-garcia-dev/">LinkedIn</a>
-⚡ Fun fact: I play for the Horde!
+<br>
+
+- 🚀 I'm passionate about technology looking for the next challenge!
+- 📫 Connect with me on <a href="https://www.linkedin.com/in/julio-garcia-dev/">LinkedIn</a>
+- ⚡ Fun fact: I play for the Horde!
+  
+<br>
+
+<small>*Code is read much more than it is written.*  
+*Guido van Rossum*</small>
 
 ---
 
