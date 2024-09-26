@@ -2,7 +2,7 @@
 
 <br>
 
-- 🚀 I'm passionate about technology looking for the next challenge!
+- 🚀 I'm passionate about technology and looking for the next challenge!
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/julio-garcia-dev/">LinkedIn</a>
 - ⚡ Fun fact: I play for the Horde!
   
