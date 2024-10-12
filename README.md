@@ -33,6 +33,7 @@
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/flutterflow-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-%23572292.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
