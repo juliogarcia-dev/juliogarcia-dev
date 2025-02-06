@@ -35,6 +35,6 @@
 
 ---
 
-![Top Langs]()<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliogarcia-dev&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&)<br>
 [![](https://visitcount.itsvg.in/api?id=juliogarcia-dev&icon=5&color=1)](https://visitcount.itsvg.in)
 
