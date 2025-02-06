@@ -8,9 +8,6 @@
   
 <br>
 
-<small>*Code is read much more than it is written.*  
-*Guido van Rossum*</small>
-
 ---
 
 ### Skills
