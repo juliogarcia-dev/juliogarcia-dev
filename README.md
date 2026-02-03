@@ -21,8 +21,3 @@
 ![DBeaver](https://img.shields.io/badge/dbeaver-%2378C1E3.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliogarcia-dev&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=FFFFFF)
-[![](https://visitcount.itsvg.in/api?id=juliogarcia-dev&icon=5&color=1)](https://visitcount.itsvg.in)
